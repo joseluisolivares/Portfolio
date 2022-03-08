@@ -1,0 +1,31 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio de Jose Luis Olivares",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseluisolivares/portfolio.git"
+  },
+  "author": "Jose Luis Olivares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseluisolivares/portfolio/issues"
+  },
+  "homepage": "https://github.com/joseluisolivares/portfolio#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "postcss": "^8.4.8",
+    "sass": "^1.49.9"
+  },
+  "browserslist": [
+    "last 3 version",
+    ">1%"
+  ]
+}
